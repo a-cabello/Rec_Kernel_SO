@@ -1,7 +1,7 @@
-============================================
+------------------------------------------------
 Una colección de scripts en Bash diseñados para optimizar tareas de administración y desarrollo en Minix.
 Este repositorio contiene actualmente herramientas para automatizar la recompilación constante del kernel (es un rollo hacerlo a mano todo el rato).
-============================================
+------------------------------------------------
 
 ## rec_kernel.sh (Script Principal)
 
